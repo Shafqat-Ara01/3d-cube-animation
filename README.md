@@ -11,7 +11,7 @@ This is a fun little experiment using **pure HTML & CSS** to create a rotating 3
 
 ## 📸 Preview
 
-![3D Cube Animation Screenshot](![image](https://github.com/user-attachments/assets/9e6ca5a6-6305-44f6-9782-25280bff13c4)
-)
+![3D Cube Animation Screenshot](https://github.com/user-attachments/assets/9e6ca5a6-6305-44f6-9782-25280bff13c4)
+
 
 
